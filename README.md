@@ -33,5 +33,5 @@ pip install pywavelets numpy Pillow
 5. thresholds_percentage: List of thresholds as a percentage of the maximum wavelet coefficient value.
 
 
-##Results
+## Results
 The notebook provides information on the size reduction achieved after thresholding and quantization for both 3-level and 5-level decompositions.
